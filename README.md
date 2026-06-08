@@ -23,7 +23,7 @@ This project demonstrates a complete analytics pipeline:
 5. Which sales channel and payment method combination performs best?
 
 ## Dashboard Preview
-[Add a screenshot of your Metabase dashboard here]
+![Sales Dashboard](Dashboard_screenshoot.png)
 
 ## Dataset
 Randomly generated sales dataset with 1000 transactions covering 2023.
